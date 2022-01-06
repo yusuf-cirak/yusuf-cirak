@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I'm studying Management Information Systems at <b>Sakarya University</b></h3>
-<p align="center" dir="auto">
-<a href="mailto:yusuf10901@hotmail.com" rel="nofollow">
-<img src="https://camo.githubusercontent.com/48459aeb605af13fd3870f37097997d2fb54fa6d37b924b514ea4aa81a64403e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f75746c6f6f6b2d3030373844342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742532306f75746c6f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Outlook-0078D4.svg?&amp;style=for-the-badge&amp;logo=microsoft%20outlook&amp;logoColor=white" style="max-width: 100%;">
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- 
- <a href="https://www.linkedin.com/in/yusuf-%C3%A7%C4%B1rak/" rel="nofollow">
- <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- </p>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/yusuf-%C3%A7%C4%B1rak/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:yusuf10901@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 - 🌱 I’m currently learning **Web Programming**
 
