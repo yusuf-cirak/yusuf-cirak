@@ -3,7 +3,6 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/yusuf-%C3%A7%C4%B1rak/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto:yusuf10901@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 - 🌱 I’m currently learning **Web Programming**
 </p>
 <h3 align="left">Languages and Tools:</h3>
