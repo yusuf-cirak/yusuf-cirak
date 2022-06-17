@@ -8,4 +8,4 @@
 <a href="https://github.com/yusuf-cirak"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuf-cirak&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true"/></a><a href="https://github.com/yusuf-cirak"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-cirak&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=7" /></a>
  
   
- <b>- 🔭 I’m currently working on [E-Commerse](https://github.com/yusuf-cirak/ECommerse) & [ETradeAngularClient](https://github.com/yusuf-cirak/ETradeAngularClient)</b>
+ <b>- 🔭 I’m currently working on [E-Commerse](https://github.com/yusuf-cirak/ECommerse) & [E-CommerceAngularClient](https://github.com/yusuf-cirak/ECommerceAngularClient)</b>
